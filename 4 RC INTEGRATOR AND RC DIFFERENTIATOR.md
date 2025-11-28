@@ -21,13 +21,23 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+![WhatsApp Image 2025-11-28 at 18 26 57_022fc046](https://github.com/user-attachments/assets/1c9c0d16-1c1e-4fa8-a40b-f2764946d8e4)
 
 
 # Graph
+![WhatsApp Image 2025-11-28 at 18 27 55_6f454bf3](https://github.com/user-attachments/assets/da0f0c34-91e4-4fb3-8d75-348e006e892e)
+![WhatsApp Image 2025-11-28 at 18 28 30_035c69dd](https://github.com/user-attachments/assets/b3e8ec0e-9f37-40fe-84b3-6ceefee3f507)
+
+
 
 
 # Sample images 
+![WhatsApp Image 2025-11-28 at 18 29 11_0e8f0f71](https://github.com/user-attachments/assets/0bd0e038-d533-4a3f-adc3-0185c22a4cd2)
+![WhatsApp Image 2025-11-28 at 18 29 40_e7ba6195](https://github.com/user-attachments/assets/4758d01c-0bc0-4493-9e05-574ad2e49b50)
+
+
 
 
 # Result
 
+![WhatsApp Image 2025-11-28 at 18 30 31_522ebb89](https://github.com/user-attachments/assets/ef29e940-a0ec-4862-a876-b32cec788593)
