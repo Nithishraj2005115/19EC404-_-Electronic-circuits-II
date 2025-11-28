@@ -4,6 +4,7 @@
 ## SCHMITT TRIGGER USING LTSPICE
 <img width="712" height="412" alt="image" src="https://github.com/user-attachments/assets/79a5320c-6750-4c22-8408-f69682d69d5d" />
 
+
 # Circuit Diagram 
 
 ![WhatsApp Image 2025-11-28 at 18 43 10_31bb7df2](https://github.com/user-attachments/assets/bb422050-8d0f-4afe-87e5-7aa4cddd45ee)
